@@ -1,0 +1,206 @@
+[
+  {
+    "code": "AK",
+    "value": 11182
+  },
+  {
+    "code": "AL",
+    "value": 173485
+  },
+  {
+    "code": "AR",
+    "value": 99597
+  },
+  {
+    "code": "AZ",
+    "value": 231897
+  },
+  {
+    "code": "CA",
+    "value": 870791
+  },
+  {
+    "code": "CO",
+    "value": 86374
+  },
+  {
+    "code": "CT",
+    "value": 64021
+  },
+  {
+    "code": "DC",
+    "value": 16395
+  },
+  {
+    "code": "DE",
+    "value": 23196
+  },
+  {
+    "code": "FL",
+    "value": 747183
+  },
+  {
+    "code": "GA",
+    "value": 341310
+  },
+  {
+    "code": "HI",
+    "value": 14024
+  },
+  {
+    "code": "IA",
+    "value": 107745
+  },
+  {
+    "code": "ID",
+    "value": 53790
+  },
+  {
+    "code": "IL",
+    "value": 350748
+  },
+  {
+    "code": "IN",
+    "value": 149166
+  },
+  {
+    "code": "KS",
+    "value": 72968
+  },
+  {
+    "code": "KY",
+    "value": 88247
+  },
+  {
+    "code": "LA",
+    "value": 179070
+  },
+  {
+    "code": "MA",
+    "value": 151370
+  },
+  {
+    "code": "MD",
+    "value": 136744
+  },
+  {
+    "code": "ME",
+    "value": 5989
+  },
+  {
+    "code": "MI",
+    "value": 164123
+  },
+  {
+    "code": "MN",
+    "value": 124439
+  },
+  {
+    "code": "MO",
+    "value": 158101
+  },
+  {
+    "code": "MS",
+    "value": 111322
+  },
+  {
+    "code": "MT",
+    "value": 23390
+  },
+  {
+    "code": "NC",
+    "value": 247172
+  },
+  {
+    "code": "ND",
+    "value": 33666
+  },
+  {
+    "code": "NE",
+    "value": 58817
+  },
+  {
+    "code": "NH",
+    "value": 9746
+  },
+  {
+    "code": "NJ",
+    "value": 221205
+  },
+  {
+    "code": "NM",
+    "value": 37302
+  },
+  {
+    "code": "NV",
+    "value": 90940
+  },
+  {
+    "code": "NY",
+    "value": 230508
+  },
+  {
+    "code": "OH",
+    "value": 183624
+  },
+  {
+    "code": "OK",
+    "value": 111624
+  },
+  {
+    "code": "OR",
+    "value": 39794
+  },
+  {
+    "code": "PA",
+    "value": 183315
+  },
+  {
+    "code": "RI",
+    "value": 28347
+  },
+  {
+    "code": "SC",
+    "value": 164609
+  },
+  {
+    "code": "SD",
+    "value": 33836
+  },
+  {
+    "code": "TN",
+    "value": 232061
+  },
+  {
+    "code": "TX",
+    "value": 828527
+  },
+  {
+    "code": "UT",
+    "value": 95562
+  },
+  {
+    "code": "VA",
+    "value": 167754
+  },
+  {
+    "code": "VT",
+    "value": 1956
+  },
+  {
+    "code": "WA",
+    "value": 98661
+  },
+  {
+    "code": "WI",
+    "value": 183142
+  },
+  {
+    "code": "WV",
+    "value": 20293
+  },
+  {
+    "code": "WY",
+    "value": 9311
+  }
+]
